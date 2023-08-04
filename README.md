@@ -1,4 +1,4 @@
-### Hi there 👋, Tonell Smith 
+### Hi there 👋, I'm  Tonell Smith 
 #### Data Analyst and IT Enthusiast
 ![Data Analyst and IT Enthusiast](https://img.freepik.com/free-vector/electronic-device-measuring-number-passageway-people_335657-2465.jpg?w=2000)
 
