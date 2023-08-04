@@ -1,6 +1,6 @@
 ### Hi there 👋, Tonell Smith 
 #### Data Analyst and IT Enthusiast
-![Data Analyst and IT Enthusiast](https://img.freepik.com/free-vector/electronic-device-measuring-number-passageway-people_335657-2465.jpg?w=2000)
+![Data Analyst and IT Enthusiast]([https://img.freepik.com/free-vector/electronic-device-measuring-number-passageway-people_335657-2465.jpg?w=2000)](https://github.com/Tonell/Tonell/blob/main/Black%20and%20White%20Minimalist%20Digital%20Marketing%20LinkedIn%20Banner%20(1).png)
 
 Welcome to my GitHub portfolio!
 
