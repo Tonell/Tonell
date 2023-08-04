@@ -1,6 +1,6 @@
 ### Hi there 👋, Tonell Smith 
 #### Data Analyst and IT Enthusiast
-![Data Analyst and IT Enthusiast]([https://img.freepik.com/free-vector/electronic-device-measuring-number-passageway-people_335657-2465.jpg?w=2000)](https://github.com/Tonell/Tonell/blob/main/Black%20and%20White%20Minimalist%20Digital%20Marketing%20LinkedIn%20Banner%20(1).png)
+![Data Analyst and IT Enthusiast](https://img.freepik.com/free-vector/electronic-device-measuring-number-passageway-people_335657-2465.jpg?w=2000)
 
 Welcome to my GitHub portfolio!
 
@@ -21,7 +21,6 @@ Skills: SQL/ Tableau/ Excel/ R
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tonell)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tonell-smith/)  
-
 
 
 
