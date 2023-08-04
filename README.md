@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm  Tonell Smith 
 #### Data Analyst and IT Enthusiast
+Pronouns: She/Her
 ![Data Analyst and IT Enthusiast](https://img.freepik.com/free-vector/electronic-device-measuring-number-passageway-people_335657-2465.jpg?w=2000)
+
 
 Welcome to my GitHub portfolio!
 
@@ -10,14 +12,13 @@ My journey began with a love for computers in high school, which eventually led 
 
 Join me on this exhilarating adventure as we unravel the hidden stories within data and embrace the endless possibilities it offers. Together, let's soar to new heights and unlock the true potential of data-driven decisions.
 
-
-
-
 Welcome to a world where numbers come alive, and knowledge knows no bounds. Let's embark on this exciting journey together!
+##Skills and Experience
+* 💻 SQL
+* 📊 Tableau
+* 👩🏽‍💻 Excel 
 
-Skills: SQL/ Tableau/ Excel/ R
 
-- 😄 Pronouns: She/Her 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tonell)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tonell-smith/)  
